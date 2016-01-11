@@ -20,8 +20,10 @@ def checkConnection() :
   f.close()
   print ("Current readings noted")
   threading.Timer(10, checkConnection).start()
-
-f = open( time.strftime("%C") + ".csv", "w")
+currDate = time.strftime("%c")
+currDate = currDate.replace(" ","_") 
+print currDate
+f = open(  currDate+ ".csv", "w")
 f.write("Time, Download, Upload\n")
 f.close()
 
