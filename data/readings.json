@@ -1,0 +1,44 @@
+[
+  {
+    "Openly-LL": {
+      "speed": {
+        "download": "10.00",
+        "upload": "4.67"
+      },
+      "packet_loss": "0"
+    },
+    "Openly-BB": {
+      "speed": {
+        "download": "2.65",
+        "upload": "4.04"
+      },
+      "packet_loss": "0"
+    }
+  },
+  {
+    "Openly-LL": {
+      "speed": {
+        "download": "10.00",
+        "upload": "5.44"
+      },
+      "packet_loss": "20"
+    },
+    "Openly-BB": {
+      "speed": {},
+      "packet_loss": "20"
+    }
+  },
+  {
+    "Openly-LL": {
+      "speed": {
+        "download": "9.34",
+        "upload": "2.90"
+      },
+      "packet_loss": "20"
+    },
+    "Openly-BB": {
+      "speed": {},
+      "packet_loss": "20"
+    }
+  }
+]
