@@ -1,24 +1,24 @@
 {
-	"update_interval" : 1,
-	"download_bandwidth_threshold" : 5,
-	"upload_bandwidth_threshold" : 3,
-	"port" : 5000,
-	"ping_details" : {
-		"destination" : "www.google.com",
-		"count" : 10
-	},
-	"poll_interval" : 1,
-	"networks" : [
-		{
-			"name" : "Openly-LL",
-			"uuid" : "bb7a6fd7-5bf9-4c4d-aafc-bc4dc389fb0b"
-		},
-		{
-			"name" : "Openly-BB",
-			"uuid" : "da97456f-2a5c-48ad-a6fa-b6d3543931f6"
-		}
+  "update_interval" : 1,
+  "download_bandwidth_threshold" : 5,
+  "upload_bandwidth_threshold" : 3,
+  "port" : 5000,
+  "ping_details" : {
+    "destination" : "www.google.com",
+    "count" : 10
+  },
+  "poll_interval" : 1,
+  "networks" : [
+    {
+      "name" : "Openly-LL",
+      "uuid" : "bb7a6fd7-5bf9-4c4d-aafc-bc4dc389fb0b"
+    },
+    {
+      "name" : "Openly-BB",
+      "uuid" : "da97456f-2a5c-48ad-a6fa-b6d3543931f6"
+    }
 
-	]
+  ]
 
-	
+  
 }
